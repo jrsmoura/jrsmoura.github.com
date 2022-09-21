@@ -1,6 +1,7 @@
 lsi: false
 safe: true
 incremental: false
+source: https://github.com/jrsmoura/jrsmoura.github.io
 highlighter: rouge
 gist:
   nonscript: false
