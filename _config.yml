@@ -1,3 +1,13 @@
-theme: jekull-theme-minimal
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  nonscript: false
+kramadown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+theme: jekyll-theme-minimal
 title: JRSMoura's homepage
 description: Keep up for my projects
