@@ -4,4 +4,6 @@ Aqui você irá encontrar meus trabalhos em Machine Learning, bem como alguns pr
 
 ## Artigos sobre Boltzmann Machines
 
-1. [boltzmann](/articles/boltzmann_machines_01.md)
+1. [Introdução às Boltzmann Machines](/articles/boltzmann_machines_01.md)
+
+## Sistemas de Unidimensionais
